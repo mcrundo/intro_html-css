@@ -26,8 +26,8 @@
 **Tools**
 - [Chrome Inspect Element](https://developer.chrome.com/devtools/docs/dom-and-styles)
 
-**HTML**
+**[HTML](https://github.com/mcrundo/intro_html-css/blob/master/intro_to_html.md)**
 
-**CSS**
+**[CSS](https://github.com/mcrundo/intro_html-css/blob/master/intro_to_css.md)**
 
-**Exercise**
+**[Exercise](https://github.com/mcrundo/intro_html-css/tree/master/exercises)**
