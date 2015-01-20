@@ -12,12 +12,12 @@
 - Create a webpage using HTML/CSS!
 
 **Resources**
-- [W3C](https://developer.chrome.com/devtools/docs/dom-and-styles)
-- [MDN](https://developer.mozilla.org/en-US/)
-- [Stack Overflow](http://stackoverflow.com/)
-- [JSFiddle](http://jsfiddle.net/)
-- [GitHub](github.com/)
-- [GA Dash](https://dash.generalassemb.ly/)
+- [W3C](https://w3c.org) - Led by Web inventor Tim Berners-Lee and CEO Jeffrey Jaffe, W3C's mission is to lead the Web to its full potential and develop standardization.
+- [MDN](https://developer.mozilla.org/en-US/) - Mozilla's developer resource network. Great source of information.
+- [Stack Overflow](http://stackoverflow.com/) - Social network for coding assistance.
+- [JSFiddle](http://jsfiddle.net/) - In-browser examples of how to solve specific features.
+- [GitHub](github.com/) - Social network for code.
+- [GA Dash](https://dash.generalassemb.ly/) - General Assembly's html/css/js resouce.
 
 **Frameworks**
 - [Bootstrap](http://getbootstrap.com/)
