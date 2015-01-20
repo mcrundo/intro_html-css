@@ -1,8 +1,8 @@
 # Intro to HTML/CSS in 90 Minutes
 
 **Download**
-- [Sublime Text Editor](#) - Edit HTML, CSS, JS, and just about any other language.
-- [Spectacle](#) - Easily split your windows to view multiple applications at once. Not required, but suggested.
+- [Sublime Text Editor](http://www.sublimetext.com/) - Edit HTML, CSS, JS, and just about any other language.
+- [Spectacle](http://spectacleapp.com/) - Easily split your windows to view multiple applications at once. Not required, but suggested.
 
 **Learning Objectives**
 
